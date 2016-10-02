@@ -1,3 +1,12 @@
+# 이 인스트럭션을 보기에 앞서 
+
+이걸 로컬에서 실행하면 안돌아가기 딱 좋다. 일단, 패키지 의존성 등등에서 여러가지 이슈가 있기 때문이다. 
+도커 이미지를 하나 만들어 두었다. 
+
+[docker_anarinsk/cambridge-tf](https://hub.docker.com/r/anarinsk/cambridge-tf/)
+
+도커 이미지 만드는 방법에 대해서는 다음의 글을 참고하자. 
+
 # Machine Learning Bootcamp Setup Instructions
 
 ## Install Python
